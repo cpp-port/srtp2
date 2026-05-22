@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\srtp\srtp.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\cipher\cipher.c">
+      <Filter>src\Ciphers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\cipher\cipher_test_cases.c">
+      <Filter>src\Ciphers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\cipher\null_cipher.c">
+      <Filter>src\Ciphers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\cipher\aes_icm_ossl.c">
+      <Filter>src\Ciphers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\cipher\aes_gcm_ossl.c">
+      <Filter>src\Ciphers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\hash\auth.c">
+      <Filter>src\Hashes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\hash\auth_test_cases.c">
+      <Filter>src\Hashes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\hash\null_auth.c">
+      <Filter>src\Hashes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\hash\hmac_ossl.c">
+      <Filter>src\Hashes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\kernel\alloc.c">
+      <Filter>src\Kernel</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\kernel\crypto_kernel.c">
+      <Filter>src\Kernel</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\kernel\err.c">
+      <Filter>src\Kernel</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\kernel\key.c">
+      <Filter>src\Kernel</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\math\datatypes.c">
+      <Filter>src\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\replay\rdb.c">
+      <Filter>src\Replay</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\replay\rdbx.c">
+      <Filter>src\Replay</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\cipher\cipher_test_cases.h">
+      <Filter>src\Ciphers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\hash\auth_test_cases.h">
+      <Filter>src\Hashes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\aes.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\aes_icm.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\alloc.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\auth.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\cipher.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\cipher_types.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\crypto_kernel.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\crypto_types.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\datatypes.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\err.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\hmac.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\integers.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\key.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\null_auth.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\null_cipher.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\rdb.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\rdbx.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\crypto\include\sha1.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\include\srtp.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\include\srtp_priv.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\build3\libdatachannel\deps\libsrtp\config.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\camilo\remoting\main\port\networking\libdatachannel\libdatachannel\deps\libsrtp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{ADEAF208-4687-38E2-99A8-FA3400A3A07A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{DA99946B-0E2B-3612-8101-0A8F3D6B09F0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Ciphers">
+      <UniqueIdentifier>{AEA954F1-5DA8-3570-B3DF-08BA67BC7F6D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Hashes">
+      <UniqueIdentifier>{2062F7ED-C916-3584-B000-C346ACB3E53E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Kernel">
+      <UniqueIdentifier>{592074BE-A267-3D6F-B4A7-4D4520AC0DE8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Math">
+      <UniqueIdentifier>{7AEA805E-0181-3DA3-9B0C-BC80A5BBC9E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Replay">
+      <UniqueIdentifier>{7A20553C-AB63-3D8C-AF4F-405368A03087}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

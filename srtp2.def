@@ -1,0 +1,16 @@
+
+LIBRARY "srtp2"
+
+
+EXPORTS
+srtp_init
+srtp_protect
+srtp_unprotect
+srtp_shutdown
+srtp_create
+srtp_add_stream
+srtp_dealloc
+srtp_crypto_policy_set_from_profile_for_rtp
+srtp_crypto_policy_set_from_profile_for_rtcp
+srtp_protect_rtcp
+srtp_unprotect_rtcp

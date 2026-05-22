@@ -1,0 +1,7 @@
+﻿  application_build_helper C:\Users\camilo\remoting\main\port\networking\srtp2\ srtp2 x64 Debug
+  2026-05-21 23:36:32
+  00:00:00 006 task 1> Task "platform::system" has finishing flag.
+  srtp.c
+  aes_icm_ossl.c
+  aes_gcm_ossl.c
+  srtp2.vcxproj -> C:\Users\camilo\remoting\main\port\networking\libdatachannel\build3\libdatachannel\deps\libsrtp\Debug\srtp2.lib

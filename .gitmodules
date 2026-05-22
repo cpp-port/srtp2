@@ -1,0 +1,4 @@
+[submodule "libsrtp"]
+	path = libsrtp
+	url = ../../cisco/libsrtp
+	branch = main
